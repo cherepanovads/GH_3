@@ -42,3 +42,5 @@ git init
 git add .
 #Или так
 git add --all
+
+%%%%%%%%%%%%%%%%%%%
